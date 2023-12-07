@@ -1,0 +1,112 @@
+body{
+    background-image: url("pink.jpeg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    background-attachment: fixed;
+    color:gold;
+    font-style: oblique;
+
+
+
+}
+#l1{
+    border: 0px;
+    color: aliceblue;
+    height: 100px;
+    font-size: 200px;
+    font-style: inherit;
+
+}
+
+#l2{
+    border: 0px;
+    color: aliceblue;
+    height: 100px;
+    font-size: 200px;
+    font-style: inherit;
+
+}
+
+#l3{
+    border: 0px;
+    color: aliceblue;
+    height: 100px;
+    font-size: 200px;
+    font-style: inherit;
+
+}
+
+#l4{
+    border: 0px;
+    color: aliceblue;
+    height: 100px;
+    font-size: 200px;
+    font-style: inherit;
+
+}
+
+#l5{
+    border: 0px;
+    color: aliceblue;
+    height: 100px;
+    font-size: 200px;
+    font-style: inherit;
+
+}
+
+#l6{
+    border: 0px;
+    color: aliceblue;
+    height: 100px;
+    font-size: 200px;
+    font-style: inherit;
+
+}
+
+#l7{
+    border: 0px;
+    color: aliceblue;
+    height: 50px;
+    font-size: 200px;
+    font-style: inherit;
+
+}
+#main{
+    margin-left: 1000px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.fa-instagram{
+    color:white;
+
+}
+.fa-x-twitter{
+    color:black,white ;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
